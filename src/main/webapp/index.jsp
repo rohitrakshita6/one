@@ -513,7 +513,7 @@
         <h1>Shape your future <br><span>with purpose.</span></h1>
         <p>Harmony University combines rigorous academics with a vibrant campus life. Join a community where curiosity meets opportunity.</p>
         <div class="hero-buttons">
-          <a href="#" class="btn-primary"><i class="fas fa-graduation-cap"></i> Explore programs</a>
+          <a href="#" class="btn-primary"><em class="fas fa-graduation-cap"></em> Explore programs</a>
           <a href="#" class="btn-outline"><i class="fas fa-map-pin"></i> Visit campus</a>
         </div>
       </div>
