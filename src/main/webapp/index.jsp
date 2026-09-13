@@ -494,14 +494,14 @@
   <header>
     <div class="container navbar">
       <div class="logo">
-        <i class="fas fa-university"></i> HarmonyU
+        <em> class="fas fa-university"></i> HarmonyU
       </div>
       <div class="nav-links">
         <a href="#">Academics</a>
         <a href="#">Admissions</a>
         <a href="#">Campus</a>
         <a href="#">News</a>
-        <a href="#" class="nav-cta"><i class="fas fa-calendar-check"></i> Apply</a>
+        <a href="#" class="nav-cta"><em> class="fas fa-calendar-check"></i> Apply</a>
       </div>
     </div>
   </header>
@@ -529,7 +529,7 @@
   <div class="container" style="position: relative; z-index: 5;">
     <div class="stats">
       <div class="stat-item">
-        <i class="fas fa-user-graduate"></i>
+        <em class="fas fa-user-graduate"></em>
         <div>
           <h3>12k+</h3>
           <p>Students</p>
